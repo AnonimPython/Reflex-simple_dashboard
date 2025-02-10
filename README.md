@@ -17,7 +17,8 @@
 
 ## 🚃 How to implement it into your project
 
-Copy functions `link` and `card_box` into your **UI** folder. In main file write `from ..ui.link import link` and `from ..ui.card_box import card_box`
+Copy functions `link` and `card_box` into your **UI** folder. 
+In main file write `from ..ui.link import link` and `from ..ui.card_box import card_box`
 
 main code from `simple-dashboard.py` replace to your **PAGES** folder.
 
